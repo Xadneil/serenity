@@ -1,3 +1,4 @@
+add_subdirectory(DotNETRuntime)
 add_subdirectory(Inspector)
 add_subdirectory(Playground)
 add_subdirectory(Profiler)
